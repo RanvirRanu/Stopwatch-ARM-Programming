@@ -5,3 +5,5 @@ It is a stopwatch designed for ARM Cortex A9 and Cyclone V FGPA, with the basic 
 Honestly the C version of this code isn't particularly advanced or difficult, but I hope this shows I know how registers and timers work :)
 
 I'm working on an assembly version of this, but no promises I remember to finish AND upload it to here.
+
+<img src="IMG_7279.jpeg" alt="you shouldn't be able to read this its a picture">
